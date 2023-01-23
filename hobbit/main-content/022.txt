@@ -1,0 +1,101 @@
+0.2 1.67 Elves know a lot  
+1.67 3.53 and are wondrous folk for news,
+3.95 8.37 and know what is going on among the peoples of the land, as quick as water flows,
+8.49 9.12 or quicker.
+11.09 16 But the dwarves were all for supper as soon as possible just then, and would not stay.
+17.14 18.43 On they all went,
+18.76 20.07 leading their ponies,
+20.6 22.82 till they were brought to a good path  
+22.99 25.64 and so at last to the very brink of the river.
+26.8 28.74 It was flowing fast and noisily,
+29.17 31.89 as mountain-streams do on a summer evening,
+32.37 35.63 when sun has been all day on the snow far up above.
+36.56 39.61 There was only a narrow bridge of stone without a parapet,
+40.16 42.74 as narrow as a pony could well walk on;
+43.27 45.23 and over that they had to go,
+45.59 47.02 slow and careful,
+47.27 48.26 one by one,
+48.66 50.68 each leading his pony by the bridle.
+51.71 54.23 The elves had brought bright lanterns to the shore,
+54.76 57.82 and they sang a merry song as the party went across.
+58.87 61.47 “Don’t dip your beard in the foam, father!”
+61.62 62.76 they cried to Thorin,
+62.98 65.66 who was bent almost on to his hands and knees.
+66.49 68.58 “It is long enough without watering it.”
+70.04 73.32 “Mind Bilbo doesn’t eat all the cakes!” they called.
+73.83 76.42 “He is too fat to get through key-holes yet!”
+77.28 79.02 “Hush, hush! Good People!
+79.42 80.36 and good night!”
+80.66 82.25 said Gandalf, who came last.
+82.73 84.04 “Valleys have ears,
+84.42 87.17 and some elves have over merry tongues.
+88.05 88.63 Good night!”
+90.34 94.25 And so at last they all came to the Last Homely House,
+94.98 97.2 and found its doors flung wide.
+100.76 102.32 Now it is a strange thing,
+103 106.63 but things that are good to have and days that are good to spend  
+106.73 108.09 are soon told about,
+108.45 110.09 and not much to listen to;
+110.67 112.63 while things that are uncomfortable,
+112.78 113.67 palpitating,
+113.89 115.1 and even gruesome,
+115.36 116.62 may make a good tale,
+116.92 118.69 and take a deal of telling anyway.
+119.92 121.86 They stayed long in that good house,
+122.47 124.01 fourteen days at least,
+124.31 126.07 and they found it hard to leave.
+127.11 130.51 Bilbo would gladly have stopped there for ever and ever  
+131.27 135.91 — even supposing a wish would have taken him right back to his hobbit-hole without trouble.
+136.71 139.08 Yet there is little to tell about their stay.
+141.25 143.57 The master of the house was an elf-friend  
+144 147.73 — one of those people whose fathers came into the strange stories  
+147.96 149.42 before the beginning of History,
+150.05 154.14 the wars of the evil goblins and the elves and the first men in the North.
+155.47 157.29 In those days of our tale  
+157.52 162.11 there were still some people who had both elves and heroes of the North for ancestors,
+162.86 164.98 and Elrond the master of the house  
+165.08 166.01 was their chief.
+167.6 171.16 He was as noble and as fair in face as an elf— lord,
+171.41 172.87 as strong as a warrior,
+173.1 174.66 as wise as a wizard,
+174.92 177.11 as venerable as a king of dwarves,
+177.41 179.23 and as kind as summer.
+180.08 181.82 He comes into many tales,
+182.4 186.97 but his part in the story of Bilbo’s great adventure is only a small one,
+187.55 188.68 though important,
+189.06 189.94 as you will see,
+190.37 191.86 if we ever get to the end of it.
+193.07 194.46 His house was perfect,
+195.24 196.32 whether you liked food,
+196.85 197.58 or sleep,
+198.16 199 or work,
+199.53 200.56 or story-telling,
+201.04 201.77 or singing,
+202.5 205.12 or just sitting and thinking best,
+205.4 207.32 or a pleasant mixture of them all.
+208.58 211.2 Evil things did not come into that valley.
+213.47 219.95 I wish I had time to tell you even a few of the tales or one or two of the songs that they heard in that house.
+220.66 221.54 All of them,
+221.77 223.03 the ponies as well,
+223.38 226.1 grew refreshed and strong in a few days there.
+226.81 229.53 Their clothes were mended as well as their bruises,
+230.06 231.62 their tempers and their hopes.
+232.33 238.21 Their bags were filled with food and provisions light to carry but strong to bring them over the mountain passes.
+239.09 241.76 Their plans were improved with the best advice.
+242.42 244.74 So the time came to midsummer eve,
+245.32 249.38 and they were to go on again with the early sun on midsummer morning.
+251.67 254.65 Elrond knew all about runes of every kind.
+255.63 259.92 That day he looked at the swords they had brought from the trolls’ lair, and he said:
+260.85 262.69 “These are not troll-make.
+263.22 264.46 They are old swords,
+264.58 267.78 very old swords of the High Elves of the West, my kin.
+268.41 271.21 They were made in Gondolin for the Goblin-wars.
+271.82 275.02 They must have come from a dragon’s hoard or goblin plunder,
+275.32 279.03 for dragons and goblins destroyed that city many ages ago.
+279.81 281.27 This, Thorin,
+281.4 283.42 the runes name Orcrist,
+283.57 286.77 the Goblin-cleaver in the ancient tongue of Gondolin;
+287.25 288.61 it was a famous blade.
+289.45 291.71 This, Gandalf, was Glamdring,
+292.29 295.14 Foe-hammer that the king of Gondolin once wore.
+295.6 296.55 Keep them well!”

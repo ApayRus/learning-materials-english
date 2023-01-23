@@ -1,0 +1,790 @@
+[
+	{
+		"id": "hobbit",
+		"type": "folder",
+		"title": "The Hobbit",
+		"description": "J.R.R. Tolkien",
+		"content": [
+			{
+				"id": "001",
+				"title": "1.1. A comfortable hole ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit1_1.mp3?alt=media&token=1c0cea21-1d4b-4501-8be5-07bf898d334f",
+				"type": "richMedia"
+			},
+			{
+				"id": "002",
+				"title": "1.2. Bilbo \"a second edition\" of his father ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit1_2.mp3?alt=media&token=5886a790-d9fd-46f0-8385-6494254f3e45",
+				"type": "richMedia"
+			},
+			{
+				"id": "003",
+				"title": "1.3. Gandalf! ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit1_3.mp3?alt=media&token=0ec8d78d-18c2-4b14-897e-45930cebd2a9",
+				"type": "richMedia"
+			},
+			{
+				"id": "004",
+				"title": "1.4. Gnomes are coming to the party ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit1_4.mp3?alt=media&token=e529d0e3-33f5-4357-b58c-acd10f25825c",
+				"type": "richMedia"
+			},
+			{
+				"id": "005",
+				"title": "1.5. Eating and talking ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit1_5.mp3?alt=media&token=77c43c0e-8121-4452-b244-a19969a99039",
+				"type": "richMedia"
+			},
+			{
+				"id": "006",
+				"title": "1.6. Washing the dishes ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit1_6.mp3?alt=media&token=d2fa9589-f344-4f37-a7a3-040386e2da08",
+				"type": "richMedia"
+			},
+			{
+				"id": "007",
+				"title": "1.7. Song: \"Far over the misty mountains cold\" ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit1_7.mp3?alt=media&token=569a92f7-0e67-465f-9eeb-532d0b49aba9",
+				"type": "richMedia"
+			},
+			{
+				"id": "008",
+				"title": "1.8. We met to discuss our plans ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit1_8.mp3?alt=media&token=4cd964ca-bdb3-44bc-9f08-d6262f8afffe",
+				"type": "richMedia"
+			},
+			{
+				"id": "009",
+				"title": "1.9. You think I'm good for nothing ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit1_9.mp3?alt=media&token=360341bc-e654-4780-b78f-bde613f8b4c7",
+				"type": "richMedia"
+			},
+			{
+				"id": "010",
+				"title": "1.10. A secret door to the dragon's dungeon ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit1_10.mp3?alt=media&token=abba7f8d-65cc-4a15-9b9c-f459883c5d00",
+				"type": "richMedia"
+			},
+			{
+				"id": "011",
+				"title": "1.11. A story of the town of Dale ruined by the dragon ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit1_11.mp3?alt=media&token=d8ab02a8-795e-46c4-aec1-ac67cc03cb91",
+				"type": "richMedia"
+			},
+			{
+				"id": "012",
+				"title": "1.12. The map of the dungeon and the key to the secret door ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit1_12.mp3?alt=media&token=f63b978d-c0a7-41c5-9b45-c12fd555e4bf",
+				"type": "richMedia"
+			},
+			{
+				"id": "013",
+				"title": "2.1. An awful mess in the morning ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit2_1.mp3?alt=media&token=5863e924-0d84-4862-97d9-c6adf45007c6",
+				"type": "richMedia"
+			},
+			{
+				"id": "014",
+				"title": "2.2. Learn to manage without a handkerchief ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit2_2.mp3?alt=media&token=678cb9ae-1698-435b-a357-7b82035c9821",
+				"type": "richMedia"
+			},
+			{
+				"id": "015",
+				"title": "2.3. The fire doesn't start burning ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit2_3.mp3?alt=media&token=99f798c2-6628-485a-a900-317e333d5046",
+				"type": "richMedia"
+			},
+			{
+				"id": "016",
+				"title": "2.4. Mutton yesterday, mutton today ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit2_4.mp3?alt=media&token=807be63b-afa6-4e7a-bfe7-e3cffe5ae994",
+				"type": "richMedia"
+			},
+			{
+				"id": "017",
+				"title": "2.5. You should not give your friends away ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit2_5.mp3?alt=media&token=1582c873-6d98-4984-b7e2-76f80a720775",
+				"type": "richMedia"
+			},
+			{
+				"id": "018",
+				"title": "2.6. All neatly tied up in sacks ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit2_6.mp3?alt=media&token=24dccee2-2a09-4df4-b2eb-a79ae6a67cce",
+				"type": "richMedia"
+			},
+			{
+				"id": "019",
+				"title": "2.7. There must be a troll cave somewhere near ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit2_7.mp3?alt=media&token=002db33d-be23-46cd-95f2-2269b1b2bf9f",
+				"type": "richMedia"
+			},
+			{
+				"id": "020",
+				"title": "3.1. The beginning of the Misty Mountains ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit3_1.mp3?alt=media&token=81ae7bc8-ace6-4868-8cc3-aca595b9bc13",
+				"type": "richMedia"
+			},
+			{
+				"id": "021",
+				"title": "3.2. Valley of Rivendell ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit3_2.mp3?alt=media&token=8448b150-2332-4a4a-9240-732ea7951158",
+				"type": "richMedia"
+			},
+			{
+				"id": "022",
+				"title": "3.3. Elves know a lot of things ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit3_3.mp3?alt=media&token=4390cff2-5abb-49f4-bfde-79fa739fcd0a",
+				"type": "richMedia"
+			},
+			{
+				"id": "023",
+				"title": "3.4. I will keep this sword in honor ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit3_4.mp3?alt=media&token=ad896281-9f56-4c88-8f55-fcc666b26c00",
+				"type": "richMedia"
+			},
+			{
+				"id": "024",
+				"title": "4.1. Most trails are blende, and led to nowhere ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit4_1.mp3?alt=media&token=2506b19e-2717-457b-ba66-c6642d668714",
+				"type": "richMedia"
+			},
+			{
+				"id": "025",
+				"title": "4.2. The most dangerous aspect of the caves ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit4_2.mp3?alt=media&token=fca2b8ad-366e-4814-bcb4-b86cd35f5299",
+				"type": "richMedia"
+			},
+			{
+				"id": "026",
+				"title": "4.3. Wrong side of the cleft ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit4_3.mp3?alt=media&token=d48670af-ac97-4b5e-855b-a39d018a199b",
+				"type": "richMedia"
+			},
+			{
+				"id": "027",
+				"title": "4.4. Inventions goblins ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit4_4.mp3?alt=media&token=8464f2e3-62ed-4a2b-a87d-f94a27f00bc6",
+				"type": "richMedia"
+			},
+			{
+				"id": "028",
+				"title": "4.5. The end of the Great Goblin ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit4_5.mp3?alt=media&token=25eddb11-810d-45b8-b004-eca8f92f6fe4",
+				"type": "richMedia"
+			},
+			{
+				"id": "029",
+				"title": "5.1. Dark like the eyes closed ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit5_1.mp3?alt=media&token=45962273-6a86-4408-adfb-e78b89a9eb7a",
+				"type": "richMedia"
+			},
+			{
+				"id": "030",
+				"title": "5.2. Path to tomorrow through tomorrow in the following days ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit5_2.mp3?alt=media&token=75e0fb05-32a4-4d7d-8e51-ce284edfc348",
+				"type": "richMedia"
+			},
+			{
+				"id": "031",
+				"title": "5.3. Gollum ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit5_3.mp3?alt=media&token=03d2a0f0-04dc-4b80-9a3a-1ee1500a1601",
+				"type": "richMedia"
+			},
+			{
+				"id": "032",
+				"title": "5.4. Eye on the blue face eyes saw a green face ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit5_4.mp3?alt=media&token=5ccc6fbe-2e9c-46cd-9dcd-fa9f0ac5dbd5",
+				"type": "richMedia"
+			},
+			{
+				"id": "033",
+				"title": "5.5. Legless lies on one-legged ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit5_5.mp3?alt=media&token=b722a09b-f644-4659-95ab-b83a9764d92a",
+				"type": "richMedia"
+			},
+			{
+				"id": "034",
+				"title": "5.6. What's in my pocket? ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit5_6.mp3?alt=media&token=e87eea91-1a76-4b01-8692-e8d8687af587",
+				"type": "richMedia"
+			},
+			{
+				"id": "035",
+				"title": "5.7. His nasty little sword will be useless ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit5_7.mp3?alt=media&token=3d55664c-d0ca-4ef0-86b1-3d77cda044b6",
+				"type": "richMedia"
+			},
+			{
+				"id": "036",
+				"title": "5.8. Gollum had seen in the darkness, but saw Bilbo ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit5_8.mp3?alt=media&token=5b7bbbb1-4fef-40a9-b7c3-2fcf61e57e7f",
+				"type": "richMedia"
+			},
+			{
+				"id": "037",
+				"title": "5.9. We do not dare go inside, precious ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit5_9.mp3?alt=media&token=5f52ed03-b3d6-402e-a3d3-7a9e83dcc1c4",
+				"type": "richMedia"
+			},
+			{
+				"id": "038",
+				"title": "5.10. Gollum left behind ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit5_10.mp3?alt=media&token=88805441-0807-4903-93ba-870b152bc771",
+				"type": "richMedia"
+			},
+			{
+				"id": "039",
+				"title": "6.1. Bilbo escaped the goblins ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit6_1.mp3?alt=media&token=f7b23a16-295a-4c47-9e96-33a645a57f45",
+				"type": "richMedia"
+			},
+			{
+				"id": "040",
+				"title": "6.2. And here is the attacker, the devil's sake ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit6_2.mp3?alt=media&token=8d0ffe6f-d37b-4288-9251-852f296b0192",
+				"type": "richMedia"
+			},
+			{
+				"id": "041",
+				"title": "6.3. As Gandalf tracked goblins ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit6_3.mp3?alt=media&token=ec782c86-3a70-4289-b777-63f7b1aaaa20",
+				"type": "richMedia"
+			},
+			{
+				"id": "042",
+				"title": "6.4. Landslide ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit6_4.mp3?alt=media&token=1948c237-7297-4885-90f3-14dc6ac95cc7",
+				"type": "richMedia"
+			},
+			{
+				"id": "043",
+				"title": "6.5. Varga protect trees ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit6_5.mp3?alt=media&token=ae933ca7-daee-4c1f-9adc-92f0da75aa70",
+				"type": "richMedia"
+			},
+			{
+				"id": "044",
+				"title": "6.6. ignition wolves ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit6_6.mp3?alt=media&token=80f4e41f-e7f6-4479-8704-841d84f947ea",
+				"type": "richMedia"
+			},
+			{
+				"id": "045",
+				"title": "6.7. lord of the eagles ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit6_7.mp3?alt=media&token=12aa7da4-aea6-4061-aa4f-7c4d3ff5c644",
+				"type": "richMedia"
+			},
+			{
+				"id": "046",
+				"title": "6.8. Evacuation on eagles ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit6_8.mp3?alt=media&token=54c6dd08-e4b3-4c6f-bb35-1a11e1ec85f9",
+				"type": "richMedia"
+			},
+			{
+				"id": "047",
+				"title": "6.9. Dinner in a nest of eagles ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit6_9.mp3?alt=media&token=e1579ea7-36ed-44fe-ab29-b3a93bf3ae88",
+				"type": "richMedia"
+			},
+			{
+				"id": "048",
+				"title": "7.1. The dream of washing and comb ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit7_1.mp3?alt=media&token=269be7ea-7fb0-40ae-84ee-a1441736d2d7",
+				"type": "richMedia"
+			},
+			{
+				"id": "049",
+				"title": "7.2. Come to Beorn ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit7_2.mp3?alt=media&token=a298bb63-b4a1-4c79-9e23-f7d2a92c23b1",
+				"type": "richMedia"
+			},
+			{
+				"id": "050",
+				"title": "7.3. We go one by one, in pairs, in 5 minutes ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit7_3.mp3?alt=media&token=11a62cbf-f293-4a62-b7bf-ca50a4b6eeb1",
+				"type": "richMedia"
+			},
+			{
+				"id": "051",
+				"title": "7.4. Not bad for a magician man ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit7_4.mp3?alt=media&token=468b7bcd-e9a4-4c6e-9a67-d73a84862f5e",
+				"type": "richMedia"
+			},
+			{
+				"id": "052",
+				"title": "7.5. Who are you? Traveling circus?? ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit7_5.mp3?alt=media&token=83d04fa6-731f-48fa-aa0a-fe978c5412b8",
+				"type": "richMedia"
+			},
+			{
+				"id": "053",
+				"title": "7.6. History Gandalf fed 15 beggars ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit7_6.mp3?alt=media&token=3f808bab-f2b9-4456-959f-69d146fddc99",
+				"type": "richMedia"
+			},
+			{
+				"id": "054",
+				"title": "7.7. Song: over parched wasteland wind rose ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit7_7.mp3?alt=media&token=0c6c2dd4-649a-401d-acc0-5f02bfe1120e",
+				"type": "richMedia"
+			},
+			{
+				"id": "055",
+				"title": "7.8. Where was Beorn night? ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit7_8.mp3?alt=media&token=b3d40a3b-1e99-4ef2-a25c-3d8cd887be4c",
+				"type": "richMedia"
+			},
+			{
+				"id": "056",
+				"title": "7.9. Heavy bears dancing ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit7_9.mp3?alt=media&token=fcd1f759-c02a-4eb6-8ad0-d2f6c4912581",
+				"type": "richMedia"
+			},
+			{
+				"id": "057",
+				"title": "7.10. Do not deviate from the path ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit7_10.mp3?alt=media&token=2ca38201-f5b5-4758-9107-42a423804eb1",
+				"type": "richMedia"
+			},
+			{
+				"id": "058",
+				"title": "7.11. The edge of the Shadow Forest ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit7_11.mp3?alt=media&token=0eb1bd3f-05d8-4026-a0f6-330cbbb8a8e6",
+				"type": "richMedia"
+			},
+			{
+				"id": "059",
+				"title": "7.12. Take heart ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit7_12.mp3?alt=media&token=fabdce77-d806-44f7-b40c-18affa224c31",
+				"type": "richMedia"
+			},
+			{
+				"id": "060",
+				"title": "8.1. Grim tunnel from trees ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit8_1.mp3?alt=media&token=961b7555-6290-4533-988a-d511ede76722",
+				"type": "richMedia"
+			},
+			{
+				"id": "061",
+				"title": "8.2. The road seemed like an eternity (hand to mouth) ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit8_2.mp3?alt=media&token=0c7ecff5-f749-446a-81c2-a6a6da861732",
+				"type": "richMedia"
+			},
+			{
+				"id": "062",
+				"title": "8.3. Who was the first cross over? ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit8_3.mp3?alt=media&token=4ead66d6-180e-4b93-9e0f-4b80ba6e9642",
+				"type": "richMedia"
+			},
+			{
+				"id": "063",
+				"title": "8.4. They crossed the enchanted river ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit8_4.mp3?alt=media&token=bfd0a829-ae20-4102-89df-43b1f04a015e",
+				"type": "richMedia"
+			},
+			{
+				"id": "064",
+				"title": "8.5. Wood lasts forever, forever in all directions ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit8_5.mp3?alt=media&token=be7d8cbe-6392-47cc-87b5-32b7f68a2eab",
+				"type": "richMedia"
+			},
+			{
+				"id": "065",
+				"title": "8.6. I'm going to lie down and sleep just to dream about food ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit8_6.mp3?alt=media&token=b5c78354-27a9-4621-9599-da740295cebe",
+				"type": "richMedia"
+			},
+			{
+				"id": "066",
+				"title": "8.7. Hypnotic singing, harp and dreams ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit8_7.mp3?alt=media&token=370b0280-2845-4ca6-b99c-11076c86fef5",
+				"type": "richMedia"
+			},
+			{
+				"id": "067",
+				"title": "8.8. Bilbo kills the spider and becomes more confident ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit8_8.mp3?alt=media&token=1f79211f-c93c-47b5-aa3f-bf2c84b84c58",
+				"type": "richMedia"
+			},
+			{
+				"id": "068",
+				"title": "8.9. Meat alive and kicking ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit8_9.mp3?alt=media&token=de604017-c1bf-47ca-96cd-066ab3cf7c87",
+				"type": "richMedia"
+			},
+			{
+				"id": "069",
+				"title": "8.10. red herring ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit8_10.mp3?alt=media&token=2b0ed2df-1247-47ae-be8b-3730e61c3c49",
+				"type": "richMedia"
+			},
+			{
+				"id": "070",
+				"title": "8.11. The battle with the spiders ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit8_11.mp3?alt=media&token=0a047265-fa19-4c5f-a1bf-a31300ffa523",
+				"type": "richMedia"
+			},
+			{
+				"id": "071",
+				"title": "8.12. Retreat ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit8_12.mp3?alt=media&token=7bc7ad4f-bfb4-473c-8de1-7597d3ec4250",
+				"type": "richMedia"
+			},
+			{
+				"id": "072",
+				"title": "8.13. Where did Thorin ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit8_13.mp3?alt=media&token=dd66a462-604e-4e86-a0e9-e305deef7d54",
+				"type": "richMedia"
+			},
+			{
+				"id": "073",
+				"title": "9.1. The force of death from hunger and thirst ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit9_1.mp3?alt=media&token=988ff90e-d89b-4bfd-bff9-60773af426e3",
+				"type": "richMedia"
+			},
+			{
+				"id": "074",
+				"title": "9.2. Each dwarf, single chamber ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit9_2.mp3?alt=media&token=0475aeaf-1806-4330-9472-a377c74a4117",
+				"type": "richMedia"
+			},
+			{
+				"id": "075",
+				"title": "9.3. Concern for the share of the treasure of the Dragon ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit9_3.mp3?alt=media&token=1ee4572b-f694-42dd-b8d1-5ba9216c48a3",
+				"type": "richMedia"
+			},
+			{
+				"id": "076",
+				"title": "9.4. Luck smiled Bilbo plan ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit9_4.mp3?alt=media&token=2a3c0e36-cbc0-4bba-999d-2426344d4957",
+				"type": "richMedia"
+			},
+			{
+				"id": "077",
+				"title": "9.5. wine Dorviniona ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit9_5.mp3?alt=media&token=a4d52ef6-6c20-4aab-947b-985c5537a593",
+				"type": "richMedia"
+			},
+			{
+				"id": "078",
+				"title": "9.6. I roll-Kacha Kacha-down ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit9_6.mp3?alt=media&token=229c3cee-5338-4b41-aade-4d667eabf97a",
+				"type": "richMedia"
+			},
+			{
+				"id": "079",
+				"title": "9.7. The shutter lock ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit9_7.mp3?alt=media&token=71e5ec0e-2193-4b83-ab3d-d8171575eab1",
+				"type": "richMedia"
+			},
+			{
+				"id": "080",
+				"title": "9.8. Anxiety in the village by the river ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit9_8.mp3?alt=media&token=548fdabb-f5e3-4da2-8c1a-43283fe1febe",
+				"type": "richMedia"
+			},
+			{
+				"id": "081",
+				"title": "10.1. Lonely Mountain! ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit10_1.mp3?alt=media&token=1a11bb9c-f9dc-454b-8e34-910a6bc046b9",
+				"type": "richMedia"
+			},
+			{
+				"id": "082",
+				"title": "10.2. Dale city ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit10_2.mp3?alt=media&token=a81994a5-e137-4538-af62-49847f3c0ff3",
+				"type": "richMedia"
+			},
+			{
+				"id": "083",
+				"title": "10.3. Dwarves pulled out of the barrel ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit10_3.mp3?alt=media&token=d0fcef11-2dce-4303-adc8-68e82446a0ac",
+				"type": "richMedia"
+			},
+			{
+				"id": "084",
+				"title": "10.4. Take us to the head of the city ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit10_4.mp3?alt=media&token=4fbb848f-6684-4854-92cf-700510e37f96",
+				"type": "richMedia"
+			},
+			{
+				"id": "085",
+				"title": "10.5. Table for guests of honor ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit10_5.mp3?alt=media&token=6497c77b-a37e-4053-90d5-33ede826cd4b",
+				"type": "richMedia"
+			},
+			{
+				"id": "086",
+				"title": "11.1. long Lake ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit11_1.mp3?alt=media&token=1b46b12e-b839-40b8-88b0-cf2688a38629",
+				"type": "richMedia"
+			},
+			{
+				"id": "087",
+				"title": "11.2. Desert near the Lonely Mountain ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit11_2.mp3?alt=media&token=3c1c4326-754a-4c46-827b-9266e43b754e",
+				"type": "richMedia"
+			},
+			{
+				"id": "088",
+				"title": "11.3. Beg the secret door open ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit11_3.mp3?alt=media&token=8393b2cb-ab30-457d-a81b-f7fecd7c60b8",
+				"type": "richMedia"
+			},
+			{
+				"id": "089",
+				"title": "11.4. The last week of the fall ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit11_4.mp3?alt=media&token=517f322d-8a75-454e-a358-9b234032d8f0",
+				"type": "richMedia"
+			},
+			{
+				"id": "090",
+				"title": "12.1. It's time cracker ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit12_1.mp3?alt=media&token=e5cf21d1-bcc7-407b-a53b-fc818daa555c",
+				"type": "richMedia"
+			},
+			{
+				"id": "091",
+				"title": "12.2. Now you do not get away from Bilbo ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit12_2.mp3?alt=media&token=77235f27-a79a-44b2-97d6-46e8e7903804",
+				"type": "richMedia"
+			},
+			{
+				"id": "092",
+				"title": "12.3. Steals a golden cup from the dragon ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit12_3.mp3?alt=media&token=ea655d8d-8432-46b0-88a3-cddfe3244a41",
+				"type": "richMedia"
+			},
+			{
+				"id": "093",
+				"title": "12.4. Again Bilbo rescues the Dwarves ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit12_4.mp3?alt=media&token=6b34f941-d7e2-49c2-81b0-ae67d4a9e266",
+				"type": "richMedia"
+			},
+			{
+				"id": "094",
+				"title": "12.5. I was not hired to kill dragons ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit12_5.mp3?alt=media&token=af7cb71f-1a21-45a9-910a-a346cc86931e",
+				"type": "richMedia"
+			},
+			{
+				"id": "095",
+				"title": "12.6. I did not come for gifts, and look at you ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit12_6.mp3?alt=media&token=ca38a561-a2c7-48bb-a072-6f8932fcb276",
+				"type": "richMedia"
+			},
+			{
+				"id": "096",
+				"title": "12.7. Did you get a good price for the cup? ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit12_7.mp3?alt=media&token=20345c4d-7dfd-4d58-9fa9-8d12bb765a3f",
+				"type": "richMedia"
+			},
+			{
+				"id": "097",
+				"title": "12.8. Laughter Smaug Bilbo dumped on the floor ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit12_8.mp3?alt=media&token=9b2391f2-5e9a-4f72-bfd9-8694dc2a6096",
+				"type": "richMedia"
+			},
+			{
+				"id": "098",
+				"title": "12.9. Outwardly with burns ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit12_9.mp3?alt=media&token=1ad0dd90-3b5b-4976-9332-5ff1eda81a65",
+				"type": "richMedia"
+			},
+			{
+				"id": "099",
+				"title": "12.10. Closed in inside the tunnel ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit12_10.mp3?alt=media&token=1ec5353a-a970-4fb8-a1d8-4d73a9413656",
+				"type": "richMedia"
+			},
+			{
+				"id": "100",
+				"title": "13.1. Perfect darkness and silence ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit13_1.mp3?alt=media&token=2b4050d5-345a-4612-ad30-329e8105fab5",
+				"type": "richMedia"
+			},
+			{
+				"id": "101",
+				"title": "13.2. Bilbo falls into the hall ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit13_2.mp3?alt=media&token=58a80d0f-bcac-4101-9d71-cc119312da48",
+				"type": "richMedia"
+			},
+			{
+				"id": "102",
+				"title": "13.3. Just a bat, I hope ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit13_3.mp3?alt=media&token=cb9960c3-efbc-47c8-a8e3-5f557c34a49e",
+				"type": "richMedia"
+			},
+			{
+				"id": "103",
+				"title": "13.4. I would give gold for invigorating drink Beorn ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit13_4.mp3?alt=media&token=ef229ae8-0fbb-4e34-bb43-c034edfb3add",
+				"type": "richMedia"
+			},
+			{
+				"id": "104",
+				"title": "13.5. Breakfast at the front door of Smaug ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit13_5.mp3?alt=media&token=9166e310-f637-44ba-8728-17c80eb977a6",
+				"type": "richMedia"
+			},
+			{
+				"id": "105",
+				"title": "14.1. What did two days ago Smaug ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit14_1.mp3?alt=media&token=af8949a5-dd4b-4727-9277-8a7acad044e4",
+				"type": "richMedia"
+			},
+			{
+				"id": "106",
+				"title": "14.2. Smaug's Fire over the city of Dale ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit14_2.mp3?alt=media&token=e0035c66-7507-446e-a95c-b60b07cb2004",
+				"type": "richMedia"
+			},
+			{
+				"id": "107",
+				"title": "14.3. Mourning residents Esgarota ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit14_3.mp3?alt=media&token=f6cade33-ac51-4ee1-b059-b3bc2c902397",
+				"type": "richMedia"
+			},
+			{
+				"id": "108",
+				"title": "14.4. This is no time for angry words ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit14_4.mp3?alt=media&token=4a71dcbd-39e8-406e-aebc-b63b332b0314",
+				"type": "richMedia"
+			},
+			{
+				"id": "109",
+				"title": "15.1. a flock of birds flock to the Lonely Mountain ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit15_1.mp3?alt=media&token=0edeca6b-ba31-487d-9092-59d2b0e0a138",
+				"type": "richMedia"
+			},
+			{
+				"id": "110",
+				"title": "15.2. The dragon is dead! ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit15_2.mp3?alt=media&token=202b822d-5ee9-47f5-ac7b-cb4853482146",
+				"type": "richMedia"
+			},
+			{
+				"id": "111",
+				"title": "15.3. News from the Ravens ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit15_3.mp3?alt=media&token=5afe11f8-32e1-44c1-a347-1e04aad663db",
+				"type": "richMedia"
+			},
+			{
+				"id": "112",
+				"title": "15.4. Song: \"Under the Mountain King came to his palace\" ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit15_4.mp3?alt=media&token=880f3087-a086-4b28-8360-6cbd3b874480",
+				"type": "richMedia"
+			},
+			{
+				"id": "113",
+				"title": "15.5. On the treasure of my people can not qualify for a single person ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit15_5.mp3?alt=media&token=0ca9bf8f-46f9-4550-9bfa-67e5f7749a67",
+				"type": "richMedia"
+			},
+			{
+				"id": "114",
+				"title": "16.1. Gnomes tidy treasures ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit16_1.mp3?alt=media&token=ec560f60-1284-4f06-9a1f-0e44620c2429",
+				"type": "richMedia"
+			},
+			{
+				"id": "115",
+				"title": "16.2. Bilbo spying elves ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit16_2.mp3?alt=media&token=d9fc630e-92fc-44ca-b7aa-1aaef40ebf7c",
+				"type": "richMedia"
+			},
+			{
+				"id": "116",
+				"title": "16.3. I'm just trying to avoid the problems for all stakeholders ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit16_3.mp3?alt=media&token=a56675e4-9f28-4289-ac37-a8daa74a0524",
+				"type": "richMedia"
+			},
+			{
+				"id": "117",
+				"title": "17.1. The camp early sounded pipe ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit17_1.mp3?alt=media&token=83b5ec6f-c306-4c6b-8a22-ceb726512348",
+				"type": "richMedia"
+			},
+			{
+				"id": "118",
+				"title": "17.2. I was betrayed! ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit17_2.mp3?alt=media&token=0cdb9bdd-8de8-421b-9937-8746afee5c93",
+				"type": "richMedia"
+			},
+			{
+				"id": "119",
+				"title": "17.3. Sit here, in the open field like enemies in front of the defending walls ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit17_3.mp3?alt=media&token=9ad0cc17-5f27-4a5c-bb0b-37b4d1c810fa",
+				"type": "richMedia"
+			},
+			{
+				"id": "120",
+				"title": "17.4. The Battle of the Five Armies ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit17_4.mp3?alt=media&token=941e70c7-3bd6-45d4-8982-6fee8b4e0723",
+				"type": "richMedia"
+			},
+			{
+				"id": "121",
+				"title": "17.5. Elves attacked first ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit17_5.mp3?alt=media&token=cc44a04a-0b12-468a-b14f-aa0da34667f0",
+				"type": "richMedia"
+			},
+			{
+				"id": "122",
+				"title": "17.6. Humans and Elves gradually won ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit17_6.mp3?alt=media&token=097b2039-98ca-4420-a0c1-8d5f0438e9c0",
+				"type": "richMedia"
+			},
+			{
+				"id": "123",
+				"title": "18.1. Bilbo came on flat stones Raven Hill ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit18_1.mp3?alt=media&token=445ad51c-d02f-439b-9781-ed4b150f1422",
+				"type": "richMedia"
+			},
+			{
+				"id": "124",
+				"title": "18.2. In your courage and wisdom, to the best mixed ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit18_2.mp3?alt=media&token=2f47ed42-3fdf-43ac-8ce9-7e3de63de820",
+				"type": "richMedia"
+			},
+			{
+				"id": "125",
+				"title": "18.3. I guess I'll be going home? ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit18_3.mp3?alt=media&token=015a2631-bb08-418d-9e1c-5d69bac77caa",
+				"type": "richMedia"
+			},
+			{
+				"id": "126",
+				"title": "18.4. Gandalf and Bilbo rode on horseback beside the King of the Elves ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit18_4.mp3?alt=media&token=f6006a3c-693d-4a85-b882-10c1e1f370bd",
+				"type": "richMedia"
+			},
+			{
+				"id": "127",
+				"title": "19.1. The first of May, the Rivendell Valley ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit19_1.mp3?alt=media&token=981474a1-284b-457a-9d30-3856edb4a5d1",
+				"type": "richMedia"
+			},
+			{
+				"id": "128",
+				"title": "19.2. Song: sing all of you happy ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit19_2.mp3?alt=media&token=e38a5fcb-51fe-4bda-a1d2-0ce6629ad64f",
+				"type": "richMedia"
+			},
+			{
+				"id": "129",
+				"title": "19.3. It is the same country where Bilbo was born and raised ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit19_3.mp3?alt=media&token=f7547555-8626-41a3-9466-643d68dde6cb",
+				"type": "richMedia"
+			},
+			{
+				"id": "130",
+				"title": "19.4. The noise of his kettle was even more music ",
+				"mediaLink": "https://firebasestorage.googleapis.com/v0/b/frazy-7d371.appspot.com/o/hobbit%2Fhobbit19_4.mp3?alt=media&token=a409c940-8fa4-448e-9883-2d2d9294c911",
+				"type": "richMedia"
+			}
+		]
+	}
+]

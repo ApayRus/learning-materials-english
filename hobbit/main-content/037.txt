@@ -1,0 +1,106 @@
+0.28 2.06 The hiss was close behind him.
+2.75 7.71 He turned now and saw Gollum’s eyes like small green lamps coming up the slope.
+8.48 10.66 Terrified he tried to run faster,
+11.02 14.2 but suddenly he struck his toes on a snag in the floor,
+14.8 17.06 and fell flat with his little sword under him.
+18.28 20.13 In a moment Gollum was on him.
+20.71 22.8 But before Bilbo could do anything,
+23.04 24.13 recover his breath,
+24.33 25.24 pick himself up,
+25.53 26.82 or wave his sword,
+27.28 28.42 Gollum passed by,
+28.84 30.26 taking no notice of him,
+30.66 32.57 cursing and whispering as he ran.
+33.6 34.82 What could it mean?
+35.82 37.73 Gollum could see in the dark.
+38.68 43.06 Bilbo could see the light of his eyes palely shining even from behind.
+43.82 45.13 Painfully he got up,
+45.46 46.86 and sheathed his sword,
+47.13 49.13 which was now glowing faintly again,
+49.53 51.4 then very cautiously he followed.
+52.26 54.04 There seemed nothing else to do.
+54.93 57.91 It was no good crawling back down to Gollum’s water.
+58.66 60.08 Perhaps if he followed him,
+60.44 64.04 Gollum might lead him to some way of escape without meaning to.
+65.08 70.68 “Curse it! curse it! curse it!”
+71.11 71.91 hissed Gollum.
+72.28 74.6 “Curse the Baggins!
+74.97 76.33 It’s gone!
+76.6 81.11 What has it got in its pocketses?
+81.44 87.08 Oh we guess, we guess, my precious.
+87.26 89.35 He’s found it,
+89.88 94.6 yes he must have. My birthday-present.”
+96.4 97.93 Bilbo pricked up his ears.
+99.06 101.4 He was at last beginning to guess himself.
+102.95 104.13 He hurried a little,
+104.6 107.04 getting as close as he dared behind Gollum,
+107.35 108.93 who was still going quickly,
+109.35 110.48 not looking back,
+110.77 113.06 but turning his head from side to side,
+113.48 116.31 as Bilbo could see from the faint glimmer on the walls.
+117.97 120.2 “My birthday-present!
+120.66 122.02 Curse it!
+122.46 124.68 How did we lose it,  
+124.84 126.15 my precious,?
+126.73 128.73 Yes, that’s it.
+129.24 132.06 When we came this way last,
+132.53 137.11 when we twisted that nassty young squeaker.
+137.44 138.37 That’s it.
+138.93 140.08 Curse it!
+140.42 142.4 It slipped from us,
+142.73 147.64 after all these ages and ages!
+147.91 149.95 It’s gone,  
+150.33 152.28 gollum.”
+154.08 156.62 Suddenly Gollum sat down and began to weep,
+156.95 159.97 a whistling and gurgling sound horrible to listen to.
+160.84 164.28 Bilbo halted and flattened himself against the tunnel-wall.
+165.06 165.97 After a while  
+166.11 167.44 Gollum stopped weeping  
+167.6 168.68 and began to talk.
+169.33 171.84 He seemed to be having an argument with himself.
+172.82 177.11 “It’s no good going back there to search,  
+177.46 178.22 no.
+178.75 181.66 We doesn’t remember all the places we’ve visited.
+182.15 183.66 And it’s no use.
+184.2 186.93 The Baggins has got it in its pocketses;
+187.17 191.06 the nassty noser has found it, we says.”
+191.64 193.02 “We guesses, precious,  
+193.24 195 only guesses,.
+196.13 202.53 We can’t know till we find the nassty creature and squeezes it.
+203.28 207.46 But it doesn’t know what the present can do, does it?
+207.91 210.77 It’ll just keep it in its pocketses.
+210.97 212.62 It doesn’t know,
+212.84 215.06 and it can’t go far.
+215.48 217.08 It’s lost itself,
+217.37 219.82 the nassty nosey thing.
+220.2 222.66 It doesn’t know the way out.
+222.93 224.46 It said so.”
+225.4 229.17 “It said so, yes; but it’s tricksy.
+229.66 231.88 It doesn’t say what it means.
+232.31 235.02 It won’t say what it’s got in its pocketses.
+235.31 236.88 It knows.
+237.13 238.84 It knows a way in,
+239.06 241.64 it must know a way out, yes.
+242.15 243.77 It’s off to the back-door.
+243.95 246.04 To the back-door, that’s it.”
+247 250.91 “The goblinses will catch it then.
+251.35 255.48 It can’t get out that way, precious.”
+255.82 262.46 “Ssss, sss, gollum! Goblinses! Yes, but if it’s got the present,
+262.51 264.75 our precious present,
+265.13 267.46 then goblinses will get it,
+267.82 268.48 gollum!
+269 270.02 They’ll find it,
+270.15 273.37 they’ll find out what it does.
+273.91 278.26 We shan’t ever be safe again, never,  
+278.37 279.11 gollum!
+280.02 287.02 One of the goblinses will put it on, and then no one will see him.
+287.4 290.51 He’ll be there but not seen.
+290.82 295.17 Not even our clever eyeses will notice him;
+295.53 301.26 and he’ll come creepsy and tricksy and catch us, gollum,
+301.28 302.51 gollum!”
+303.53 306.55 “Then let’s stop talking, precious, and make haste.
+306.8 308.84 If the Baggins has gone that way,
+308.95 310.57 we must go quick and see.
+311.2 311.84 Go!
+312.17 313.88 Not far now.
+314.13 315.44 Make haste!”

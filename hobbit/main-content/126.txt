@@ -1,0 +1,117 @@
+0 3.21 Gandalf and Bilbo rode behind the Elvenking,
+3.98 6.01 and beside them strode Beorn,
+6.76 8.38 once again in man’s shape,
+8.86 11.9 and he laughed and sang in a loud voice upon the road.
+13.08 14.33 So they went on  
+14.48 17.1 until they drew near to the borders of Mirkwood,
+17.68 20.17 to the north of the place where the Forest River ran out.
+21.16 22.08 Then they halted,
+22.46 25.08 for the wizard and Bilbo would not enter the wood,
+25.4 28.54 even though the king bade them stay a while in his halls.
+29.52 32.09 They intended to go along the edge of the forest,
+32.16 35.12 and round its northern end in the waste that lay between it
+35.15 36.96 and the beginning of the Grey Mountains.
+37.87 39.84 It was a long and cheerless road,
+40.35 42.24 but now that the goblins were crushed,
+42.64 44.28 it seemed safer to them  
+44.68 47.08 than the dreadful pathways under the trees.
+47.9 48.75 Moreover
+48.83 50.67 Beorn was going that way too.
+52.03 53.72 “Farewell! O Elvenking!”
+54.14 55.08 said Gandalf.
+55.63 56.99 “Merry be the greenwood,
+57.21 58.81 while the world is yet young!
+59.34 61.37 And merry be all your folk!”
+62.99 63.77 “Farewell!
+63.92 64.78 O Gandalf!”
+65.12 65.88 said the king.
+66.57 70.27 “May you ever appear where you are most needed and least expected!
+70.94 72.76 The oftener you appear in my halls  
+73.07 74.48 the better shall I be pleased!”
+75.85 76.83 “I beg of you,”
+77.37 78.7 said Bilbo stammering  
+78.73 79.96 and standing on one foot,
+80.65 82.09 “to accept this gift!”
+83.36 85.9 and he brought out a necklace of silver and pearls  
+86.14 88.19 that Dain had given him at their parting.
+89.85 92.73 “In what way have I earned such a gift, O hobbit?”
+93.28 94 said the king.
+94.75 95.68 “Well, er,
+96.08 96.57 I thought,
+96.97 97.74 don’t you know,”
+98.24 99.77 said Bilbo rather confused,
+99.98 100.68 “that, er,  
+101.08 103.37 some little return should be made for your,
+103.48 103.85 er,
+104.03 104.83 hospitality.
+105.56 107.71 I mean even a burglar has his feelings.
+108.16 111.16 I have drunk much of your wine and eaten much of your bread.”
+113.31 115.07 “I will take your gift,
+115.18 116.92 O Bilbo the Magnificent!”
+117.31 118.54 said the king gravely.
+119.07 120.16 “And I name you
+120.2 121.76 elf-friend and blessed.
+122.36 124.6 May your shadow never grow less  
+124.96 126.44 or stealing would be too easy!
+127.16 127.92 Farewell!”
+128.97 130.94 Then the elves turned towards the Forest,
+131.31 134.06 and Bilbo started on his long road home.
+136.06 139.98 He had many hardships and adventures before he got back.
+141.2 143.02 The Wild was still the Wild,
+143.42 146.94 and there were many other things in it in those days besides goblins;
+147.52 149.71 but he was well guided and well guarded —
+150.7 152.3 the wizard was with him,
+152.7 154.4 and Beorn for much of the way —
+155 157.26 and he was never in great danger again.
+158.25 160.01 Anyway by mid-winter  
+160.24 162.92 Gandalf and Bilbo had come all the way back,
+163.16 165.07 along both edges of the Forest,
+165.6 167.39 to the doors of Beorn’s house;
+168.19 170.25 and there for a while they both stayed.
+171.23 173.64 Yule-tide was warm and merry there;
+174.17 177.85 and men came from far and wide to feast at Beorn’s bidding.
+179.23 182.72 The goblins of the Misty Mountains were now few and terrified,
+183.23 185.56 and hidden in the deepest holes they could find;
+186.2 188.24 and the Wargs had vanished from the woods,
+188.51 190.56 so that men went abroad without fear.
+191.82 195.39 Beorn indeed became a great chief afterwards in those regions  
+195.69 198.57 and ruled a wide land between the mountains and the wood;
+199.21 201.47 and it is said that for many generations  
+201.71 205 the men of his line had the power of taking bear’s shape,
+205.47 207.29 and some were grim men and bad,
+207.63 209.66 but most were in heart like Beorn,
+210 211.79 if less in size and strength.
+213.02 213.98 In their day
+214.22 216.97 the last goblins were hunted from the Misty Mountains  
+217.39 220.49 and a new peace came over the edge of the Wild.
+221.93 223.18 It was spring,
+223.79 226.99 and a fair one with mild weathers and a bright sun,
+227.55 229.16 before Bilbo and Gandalf
+229.16 230.97 took their leave at last of Beorn,
+231.87 233.56 and though he longed for home  
+234.14 235.96 Bilbo left with regret,
+236.54 239.6 for the flowers of the gardens of Beorn were in springtime
+239.92 241.23 no less marvelous  
+241.34 242.41 than in high summer.
+244.09 246.52 At last they came up the long road,
+246.96 250.52 and reached the very pass where the goblins had captured them before.
+251.93 254.27 But they came to that high point at morning,
+254.86 255.98 and looking backward  
+256.43 259.63 they saw a white sun shining over the out-stretched lands.
+260.76 262.73 There behind lay Mirkwood,
+263.05 264.41 blue in the distance,
+264.83 266.3 and darkly green
+266.35 267.53 at the nearer edge  
+267.53 268.65 even in the spring.
+269.77 273.1 There far away was the Lonely Mountain on the edge of eyesight.
+274 275.44 On its highest peak  
+275.58 276.99 snow yet unmelted  
+277.31 278.56 was gleaming pale.
+280.64 283.23 “So comes snow after fire,
+283.88 285.74 and even dragons have their ending!”
+286.36 287.21 said Bilbo,
+287.85 289.77 and he turned his back on his adventure.
+290.86 293.26 The Tookish part was getting very tired,
+293.79 296.03 and the Baggins was daily getting stronger.
+297.39 300.96 “I wish now only to be in my own arm-chair!”
+301.39 302.12 he said.

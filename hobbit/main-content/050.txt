@@ -1,0 +1,101 @@
+0 3.6 Still the next morning dawned bright and fair again.
+4.91 9.4 There was an autumn-like mist white upon the ground and the air was chill,
+9.95 12.3 but soon the sun rose red in the East  
+12.38 13.72 and the mists vanished,
+14.37 16.37 and while the shadows were still long  
+16.64 17.66 they were off again.
+18.82 21.4 So they rode now for two more days,
+21.73 26.8 and all the while they saw nothing save grass and flowers and birds and scattered trees,
+27.33 32.2 and occasionally small herds of red deer browsing or sitting at noon in the shade.
+33.66 38.17 Sometimes Bilbo saw the horns of the harts sticking up out of the long grass,
+38.8 42.08 and at first he thought they were the dead branches of trees.
+43.53 46.35 That third evening they were so eager to press on,
+46.95 51.53 for Beorn had said that they should reach the forest-gate early on the fourth day,
+52.31 54.97 that they rode still forward after dusk  
+55.33 57.37 and into the night beneath the moon.
+58.35 59.71 As the light faded  
+60.17 62.73 Bilbo thought he saw away to the right,
+63.15 64.13 or to the left,
+64.71 68.75 the shadowy form of a great bear prowling along in the same direction.
+69.88 72.08 But if he dared to mention it to Gandalf,
+72.42 73.71 the wizard only said:
+74.08 74.64 “Hush!
+75.15 76.08 Take no notice!”
+78.88 81.33 Next day they started before dawn,
+81.73 83.53 though their night had been short.
+84.55 86.2 As soon as it was light  
+86.51 89.53 they could see the forest coming as it were to meet them,
+89.95 93.62 or waiting for them like a black and frowning wall before them.
+94.73 96.22 The land began to slope up
+96.42 96.88 and up,
+97.53 99.17 and it seemed to the hobbit  
+99.4 102.08 that a silence began to draw in upon them.
+102.68 104.91 Birds began to sing less.
+105.62 106.95 There were no more deer;
+107.44 109.62 not even rabbits were to be seen.
+110.22 113.68 By the afternoon they had reached the eaves of Mirkwood,
+114.08 119.04 and were resting almost beneath the great overhanging boughs of its outer trees.
+119.88 122.04 Their trunks were huge and gnarled,
+122.35 123.86 their branches twisted,
+124.26 126.35 their leaves were dark and long.
+126.75 128.2 Ivy grew on them  
+128.35 130.13 and trailed along the ground.
+131.55 133.88 “Well, here is Mirkwood!”
+134.35 135.37 said Gandalf.
+136.2 139.02 “The greatest of the forests of the Northern world.
+139.84 141.8 I hope you like the look of it.
+142.48 146 Now you must send back these excellent ponies you have borrowed.”
+148.17 150.95 The dwarves were inclined to grumble at this,
+151.51 153.68 but the wizard told them they were fools.
+154.97 158.15 “Beorn is not as far off as you seem to think,
+158.71 161 and you had better keep your promises anyway,
+161.17 162.35 for he is a bad enemy.
+163.4 166.31 Mr. Baggins’ eyes are sharper than yours,
+166.68 171.77 if you have not seen each night after dark a great bear going along with us  
+172.08 175.42 or sitting far of in the moon watching our camps.
+176.04 178.06 Not only to guard you and guide you,
+178.42 180.64 but to keep an eye on the ponies too.
+181.42 182.84 Beorn may be your friend,
+183.11 185.62 but he loves his animals as his children.
+186.93 192.95 You do not guess what kindness he has shown you in letting dwarves ride them so far and so fast,
+193.33 194.73 nor what would happen to you,
+195.02 197.6 if you tried to take them into the forest.”
+198.95 201.51 “What about the horse, then?”
+201.8 202.64 said Thorin.
+203.04 205.42 “You don’t mention sending that back.”
+206.48 209.04 “I don’t, because I am not sending it.”
+210.17 212.44 “What about your promise then?”
+212.97 214.73 “I will look after that.
+215.24 217.2 I am not sending the horse back,
+217.28 218.53 I am riding it!”
+219.77 222.6 Then they knew that Gandalf was going to leave them  
+222.55 224.11 at the very edge of Mirkwood,
+224.66 226 and they were in despair.
+226.62 229.2 But nothing they could say would change his mind.
+229.91 232.24 “Now we had this all out before,
+232.28 233.86 when we landed on the Carrock,”
+234.02 234.55 he said.
+235.2 236.4 “It is no use arguing.
+236.75 237.53 I have,
+237.66 238.68 as I told you,
+238.95 241.11 some pressing business away south;
+241.64 243.08 and I am already late  
+243.15 244.84 through bothering with you people.
+245.86 248.44 We may meet again before all is over,
+248.71 250.44 and then again of course we may not.
+251.95 253.95 That depends on your luck  
+254.06 255.82 and on your courage and sense;
+256.77 258.91 and I am sending Mr. Baggins with you.
+259.6 261.08 I have told you before  
+261.37 263.62 that he has more about him than you guess,
+264.11 266.66 and you will find that out before long.
+268.02 270.4 So cheer up Bilbo and don’t look so glum.
+271 273.51 Cheer up Thorin and Company!
+274.15 276.51 This is your expedition after all.
+277.11 279.06 Think of the treasure at the end,
+279.42 281.62 and forget the forest and the dragon,
+281.88 283.86 at any rate until tomorrow morning!”
+285.66 287.35 When tomorrow morning came  
+287.6 289.06 he still said the same.
+289.91 296.6 So now there was nothing left to do but to fill their water-skins at a clear spring they found close to the forest-gate,
+297.2 299.48 and unpack the ponies.

@@ -1,0 +1,96 @@
+0 1.15 Chapter 10.
+3.26 4.75 A Warm Welcome
+7.66 10.73 The day grew lighter and warmer as they floated along.
+11.68 16.55 After a while the river rounded a steep shoulder of land that came down upon their left.
+17.91 19.26 Under its rocky feet  
+19.35 20.71 like an inland cliff  
+21.11 24.26 the deepest stream had flowed lapping and bubbling.
+25.31 27 Suddenly the cliff fell away.
+27.71 28.86 The shores sank.
+29.37 30.62 The trees ended.
+31.53 33.64 Then Bilbo saw a sight:
+35.24 37.51 The lands opened wide about him,
+38.11 40.75 filled with the waters of the river which broke up  
+40.91 43.44 and wandered in a hundred winding courses,
+43.97 47.75 or halted in marshes and pools dotted with isles on every side:
+48.51 51.97 but still a strong water flowed on steadily through the midst.
+53.04 54.02 And far away,
+54.35 56.57 its dark head in a torn cloud,
+57 58.88 there loomed the Mountain!
+59.82 62.17 Its nearest neighbours to the North-East  
+62.17 64.44 and the tumbled land that joined it to them
+64.57 65.6 could not be seen.
+66.53 70.46 All alone it rose and looked across the marshes to the forest.
+71.6 73.53 The Lonely Mountain!
+74.62 76.24 Bilbo had come far  
+76.33 78.33 and through many adventures to see it,
+78.8 81.64 and now he did not like the look of it in the least.
+83.17 85.48 As he listened to the talk of the raftmen  
+86.31 89.68 and pieced together the scraps of information they let fall,
+90.53 93.35 he soon realized that he was very fortunate  
+93.48 95.28 ever to have seen it at all,
+95.6 97.08 even from this distance.
+98.48 103.04 Dreary as had been his imprisonment and unpleasant as was his position  
+103.51 106.02 to say nothing of the poor dwarves underneath him
+106.53 107.33 still,
+107.93 110.11 he had been more lucky than he had guessed.
+110.95 113.02 The talk was all of the trade  
+113.02 115.24 that came and went on the waterways
+115.51 117.44 and the growth of the traffic on the river
+117.82 120.55 as the roads out of the East towards Mirkwood
+120.73 122.71 vanished or fellinto disuse;
+123.53 125.53 and of the bickerings of the Lake-men
+125.77 128.84 and the Wood-elves about the upkeep of the Forest River  
+128.91 130.28 and the care of the banks.
+131.26 133.48 Those lands had changed much  
+133.53 136.13 since the days when dwarves dwelt in the Mountain,
+136.68 140.88 days which most people now remembered only as a very shadowy tradition.
+141.57 144 They had changed even in recent years,
+144.33 147.55 and since the last news that Gandalf had had of them.
+148.57 152.2 Great floods and rains had swollen the waters that flowed east;
+153 154.91 and there had been an earthquake or two  
+155.4 158.17 which some were inclined to attribute to the dragon —
+159.06 161.08 alluding to him chiefly with a curse  
+161.08 163.6 and an ominous nod in the direction of the Mountain.
+165 168.71 The marshes and bogs had spread wider and wider on either side.
+169.84 170.93 Paths had vanished,
+171.62 173.93 and many a rider and wanderer too,
+174.17 176.68 if they had tried to find the lost ways across.
+177.86 181.93 The elf-road through the wood which the dwarves had followed on the advice of Beorn  
+182.24 187.35 now came to a doubtful and little used end at the eastern edge of the forest;
+188.13 192.86 only the river offered any longer a safe way from the skirts of Mirkwood in the North  
+193.37 195.77 to the mountain-shadowed plains beyond,
+196.24 199.15 and the river was guarded by the Wood-elves’ king.
+200.95 201.86 So you see  
+202.02 205.75 Bilbo had come in the end by the only road that was any good.
+207.02 211 It might have been some comfort to Mr. Baggins shivering on the barrels,
+211.48 213.46 if he had known that news of this
+213.55 217 had reached Gandalf far away and given him great anxiety,
+217.91 220.77 and that he was in fact finishing his other business  
+221.24 222.97 which does not come into this tale  
+223.37 226.17 and getting ready to come in search of Thorin’s company.
+227.11 228.93 But Bilbo did not know it.
+230.93 232.06 All he knew
+232.37 236 was that the river seemed to go on and on and on for ever,
+236.44 237.42 and he was hungry,
+237.66 239.73 and had a nasty cold in the nose,
+240.02 243.51 and did not like the way the Mountain seemed to frown at him  
+243.75 246.04 and threaten him as it drew ever nearer.
+246.97 248.77 After a while, however,
+249.44 251.62 the river took a more southerly course  
+251.77 253.71 and the Mountain receded again,
+254.11 255.04 and at last,
+255.44 257.62 late in the day the shores grew rocky,
+258.04 262.42 the river gathered all its wandering waters together into a deep and rapid flood,
+263 265.33 and they swept along at great speed.
+267.48 270.33 The sun had set when turning with another sweep  
+270.4 271.68 towards the East  
+271.95 274.62 the forest-river rushed into the Long Lake.
+275.82 280.24 There it had a wide mouth with stony clifflike gates at either side  
+280.4 282.46 whose feet were piled with shingles.
+283.66 285.24 The Long Lake!
+286.24 291.24 Bilbo had never imagined that any water that was not the sea could look so big.
+292.35 296.68 It was so wide that the opposite shores looked small and far,
+297.4 300.24 but it was so long that its northerly end,
+301 302.82 which pointed towards the Mountain,
+303.42 305.26 could not be seen at all.

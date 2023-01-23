@@ -1,0 +1,118 @@
+0 0.73 “Yes;
+0.88 3.77 not a bad fellow as wizards go, I believe.
+4.48 6.48 I used to see him now and again,”
+7.08 8.17 said Beorn.
+8.68 11.04 “Well, now I know who you are,
+11.2 12.62 or who you say you are.
+13.22 13.97 What do you want?”
+14.93 16.11 “To tell you the truth,
+16.44 19.17 we have lost our luggage and nearly lost our way,
+19.4 22.26 and are rather in need of help, or at least advice.
+22.86 26.77 I may say we have had rather a bad time with goblins in the mountains.”
+28.15 29.31 “Goblins?”
+29.77 31.35 said the big man less gruffly.
+31.84 32.6 “Oho,
+32.95 35.11 so you’ve been having trouble with them, have you?
+35.71 37.33 What did you go near them for?”
+38.06 39.35 “We did not mean to.
+39.68 43.06 They surprised us at night in a pass which we had to cross,
+43.53 46.51 we were coming out of the Lands over West into these countries —
+47 48.13 it is a long tale.”
+49.13 52.04 “Then you had better come inside and tell me some of it,
+52.33 54.04 if it won’t take all day,”
+54.35 59.02 said the man leading the way through a dark door that opened out of the courtyard into the house.
+60.55 64.71 Following him they found themselves in a wide hall with a fire-place in the middle.
+65.88 66.95 Though it was summer  
+67.06 72.46 there was a wood-fire burning and the smoke was rising to the blackened rafters in search of the way out  
+72.8 74.24 through an opening in the roof.
+75.73 77.8 They passed through this dim hall,
+77.97 80.35 lit only by the fire and the hole above it,
+80.82 82.8 and came through another smaller door  
+83.04 84.55 into a sort of veranda  
+84.71 87.51 propped on wooden posts made of single tree-trunks.
+88.28 94.06 It faced south and was still warm and filled with the light of the westering sun which slanted into it,
+94.6 98.93 and fell golden on the garden full of flowers that came right up to the steps.
+100.26 102.17 Here they sat on wooden benches  
+102.4 104.06 while Gandalf began his tale,
+104.31 108.26 and Bilbo swung his dangling legs and looked at the flowers in the garden,
+108.62 110.37 wondering what their names could be,
+110.75 112.93 as he had never seen half of them before.
+114.04 117.31 “I was coming over the mountains with a friend or two …”
+117.77 118.71 said the wizard.
+119.93 121.11 “Or two?
+121.35 122.73 I can only see one,
+123 124.17 and a little one at that,”
+124.62 125.46 said Beorn.
+126.04 127.33 “Well to tell you the truth,
+127.75 131.55 I did not like to bother you with a lot of us, until I found out if you were busy.
+131.95 133.66 I will give a call, if I may.”
+134.82 136.55 “Go on, call away!”
+137.24 139.66 So Gandalf gave a long shrill whistle,
+139.95 143.91 and presently Thorin and Dori came round the house by the garden path  
+144.11 146.17 and stood bowing low before them.
+147.6 150.17 “One or three you meant, I see!”
+150.48 151.26 said Beorn.
+152.13 153.64 “But these aren’t hobbits,
+153.75 154.73 they are dwarves!”
+155.66 157.35 “Thorin Oakenshield,
+157.51 159.02 at your service!
+159.82 161.68 Dori at your service!”
+162.08 164.11 said the two dwarves bowing again.
+165.17 167.44 “I don’t need your service, thank you,”
+167.82 168.51 said Beorn,
+168.93 170.6 “but I expect you need mine.
+171.62 173.84 I am not over fond of dwarves;
+174.42 175.62 but if it is true
+175.68 176.88 and you are Thorin  
+177.06 179.64 son of Thrain, son of Thror, I believe,
+180.17 182.66 and that your companion is respectable,
+182.93 186.91 and that you are enemies of goblins and are not up to any mischief in my lands —
+187.51 188.91 what are you up to, by the way?”
+190.06 194.73 “They are on their way to visit the land of their fathers, away east beyond Mirkwood,”
+195 195.93 put in Gandalf,
+196.42 198.46 “and it is entirely an accident  
+198.57 200.24 that we are in your lands at all.
+200.75 205.97 We were crossing by the High Pass that should have brought us to the road that lies to the south of your country,
+206.51 209.02 when we were attacked by the evil goblins —
+209.17 210.8 as I was about to tell you.”
+211.71 213.28 “Go on telling, then!”
+213.44 214.28 said Beorn,
+214.48 215.84 who was never very polite.
+216.6 218.13 “There was a terrible storm;
+218.48 220.73 the stone-giants were out hurling rocks,
+221.08 224.08 and at the head of the pass we took refuge in a cave,
+224.51 227.06 the hobbit and I and several of our companions …”
+228.13 230.88 “Do you call two several?”
+231.55 232.86 “Well, no.
+233.13 236.22 As a matter of fact there were more than two.”
+237.31 240.08 “Where are they?
+238.4 239.15 Killed,
+239.31 239.95 eaten,
+240.24 241.02 gone home?”
+241.33 242.42 “Well, no.
+242.68 245.4 They don’t seem all to have come when I whistled.
+245.57 247 Shy, I expect.
+247.46 247.88 You see,
+248.28 252.35 we are very much afraid that we are rather a lot for you to entertain.”
+253.15 255.62 “Go on, whistle again!
+256.13 258 I am in for a party, it seems,
+258.24 260.6 and one or two more won’t make much difference,”
+260.93 261.73 growled Beorn.
+262.46 263.82 Gandalf whistled again;
+264.4 268.17 but Nori and Ori were there almost before he had stopped, for,
+268.53 269.31 if you remember,
+269.75 272.97 Gandalf had told them to come in pairs every five minutes.
+273.75 274.77 “Hullo!”
+275.04 275.86 said Beorn.
+276.62 277.91 “You came pretty quick —
+278.37 279.42 where were you hiding?
+279.93 281.57 Come on my jack-in-the-boxes!”
+282.31 284.68 “Nori at your service,
+285.2 286.64 Ori at …”
+287.08 287.91 they began;
+288.08 289.57 but Beorn interrupted them.
+290.02 290.82 “Thank you!
+291.02 292.82 When I want your help I will ask for it.
+293.15 293.73 Sit down,
+294.24 295.77 and let’s get on with this tale,
+296.08 299.57 or it will be supper-time before it is ended.”

@@ -1,0 +1,107 @@
+0 3.44 “There is more in you of good than you know,
+3.6 5.76 child of the kindly West.
+6.19 8.59 Some courage and some wisdom,
+8.88 10.28 blended in measure.
+10.86 16.16 If more of us valued food and cheer and song above hoarded gold,
+16.51 18.16 it would be a merrier world.
+18.67 19.24 But
+19.39 20.89 sad or merry,
+21.28 23.44 I must leave it now.
+24.27 25.72 Farewell!”
+28.06 29.8 Then Bilbo turned away,
+30.86 32.35 and he went by himself,
+33.16 35.42 and sat alone wrapped in a blanket,
+35.6 36.14 and,
+36.83 38.44 whether you believe it or not,
+39.26 41.4 he wept until his eyes were red  
+41.66 43.18 and his voice was hoarse.
+44.32 46.04 He was a kindly little soul.
+46.89 50.49 Indeed it was long before he had the heart to make a joke again.
+51.87 53.21 “A mercy it is,”
+53.77 55.21 he said at last to himself,
+55.79 57.34 “that I woke up when I did.
+58.14 59.63 I wish Thorin were living,
+60.11 62.51 but I am glad that we parted in kindness.
+64.24 66.83 You are a fool, Bilbo Baggins,
+67.26 70.16 and you made a great mess of that business with the stone;
+70.83 72.46 and there was a battle,
+72.68 75.74 in spite of all your efforts to buy peace and quiet,
+76.8 79.39 but I suppose you can hardly be blamed for that.”
+81.69 84.2 All that had happened after he was stunned,
+84.56 85.98 Bilbo learned later;
+86.88 89.12 but it gave him more sorrow than joy,
+89.4 91.5 and he was now weary of his adventure.
+92.24 95.04 He was aching in his bones for the homeward journey.
+96.46 97.34 That,
+97.52 98.17 however,
+98.46 99.84 was a little delayed,
+100.54 101.72 so in the meantime
+101.88 103.93 I will tell something of events.
+105.04 108.7 The Eagles had long had suspicion of the goblins’ mustering;
+109.18 110.48 from their watchfulness  
+110.68 113.8 the movements in the mountains could not be altogether hid.
+114.8 117.48 So they too had gathered in great numbers,
+117.63 120.01 under the great Eagle of the Misty Mountains;
+120.73 121.61 and at length
+121.76 123.29 smelling battle from afar  
+123.63 126.81 they had come speeding down the gale in the nick of time.
+128.6 132.36 They it was who dislodged the goblins from the mountain-slopes,
+132.94 134.76 casting them over precipices,
+135.23 139.13 or driving them down shrieking and bewildered among their foes.
+140.4 143.88 It was not long before they had freed the Lonely Mountain,
+144.32 146.84 and elves and men on either side of the valley  
+147.23 150.04 could come at last to the help of the battle below.
+151.24 152.73 But even with the Eagles  
+152.83 154.33 they were still outnumbered.
+155.26 156.89 In that last hour
+157.1 158.91 Beorn himself had appeared —
+159.44 160.8 no one knew how
+160.86 161.71 or from where.
+162.44 163.4 He came alone,
+163.71 165.2 and in bear’s shape;
+165.87 170.12 and he seemed to have grown almost to giant-size in his wrath.
+172.06 174.8 The roar of his voice was like drums and guns;
+175.26 179.53 and he tossed wolves and goblins from his path like straws and feathers.
+180.43 181.87 He fell upon their rear,
+182.22 184.96 and broke like a clap of thunder through the ring.
+185.9 190.72 The dwarves were making a stand still about their lords upon a low rounded hill.
+191.5 193.04 Then Beorn stooped
+193.1 194.27 and lifted Thorin,
+194.75 196.78 who had fallen pierced with spears,
+197.23 198.96 and bore him out of the fray.
+200.01 201.8 Swiftly he returned  
+201.98 203.92 and his wrath was redoubled,
+204.04 206.24 so that nothing could withstand him,
+206.46 208.97 and no weapon seemed to bite upon him.
+209.56 211.23 He scattered the bodyguard,
+211.37 214.68 and pulled down Bolg himself and crushed him.
+215.34 217.4 Then dismay fell on the Goblins  
+217.56 219.32 and they fled in all directions.
+219.87 223.42 But weariness left their enemies with the coming of new hope,
+223.74 225.08 and they pursued them closely,
+225.44 228.2 and prevented most of them from escaping where they could.
+230.2 232.92 They drove many of them into the Running River,
+233.58 235.87 and such as fled south or west  
+236.12 238.81 they hunted into the marshes about the Forest River;
+240.03 243.77 and there the greater part of the last fugitives perished,
+244.49 247.42 while those that came hardly to the Wood-elves realm  
+247.52 248.52 were there slain,
+248.89 252.32 or drawn in to die in the trackless dark of Mirkwood.
+253.52 257.31 Songs have said that three parts of the goblin warriors of the North  
+257.4 258.65 perished on that day,
+259.18 261.74 and the mountains had peace for many a year.
+263.24 266.06 Victory had been assured before the fall of night,
+266.68 268.65 but the pursuit was still on foot,
+269.08 271.04 when Bilbo returned to the camp;
+271.58 273.4 and not many were in the valley  
+273.56 275.4 save the more grievously wounded.
+277.02 278.24 “Where are the Eagles?”
+278.54 280.24 he asked Gandalf that evening,
+280.59 282.68 as he lay wrapped in many warm blankets.
+283.31 284.76 “Some are in the hunt,”
+285.12 285.82 said the wizard,
+286.46 288.75 “but most have gone back to their eyries.
+289.48 291.1 They would not stay here,
+291.28 293.42 and departed with the first light of morning.
+294.36 296.73 Dain has crowned their chief with gold,
+296.94 299.04 and sworn friendship with them for ever.”
